@@ -12,5 +12,9 @@ Creating a new branch is quick AND simple.
 =======
 My stupid boss still prefers SVN.
 HHH
+<<<<<<< HEAD
 jjj
+>>>>>>> dev
+=======
+444
 >>>>>>> dev
